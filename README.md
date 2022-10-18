@@ -1,5 +1,5 @@
 # Menzione
-<img width="252" alt="image" src="https://user-images.githubusercontent.com/16355437/196415031-b448a8eb-8623-4196-b9fb-efb0a09675be.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
 L’impresa «Ristrutturazione Menzione» nasce nell’estate del 2017 da due fratelli, nonché colleghi da più di 10 anni, dopo il crollo commerciale della ditta per la quale i due lavoravano.
 L’impresa opera sul territorio regionale e si occupa di lavori edili, tra cui rinnovo di appartamenti e costruzione di nuovi.
