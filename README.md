@@ -8,6 +8,8 @@
   width: 50%;
 }
 </style>
+
+
 <img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
 L’impresa «Ristrutturazione Menzione» nasce nell’estate del 2017 da due fratelli, nonché colleghi da più di 10 anni, dopo il crollo commerciale della ditta per la quale i due lavoravano.
