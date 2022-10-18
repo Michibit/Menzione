@@ -1,13 +1,5 @@
 # Menzione
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
 
 
 <img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
