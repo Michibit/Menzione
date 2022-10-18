@@ -26,3 +26,24 @@ L’amministratore inoltre effettua ordini per adempiere alla mancanza di materi
 - Eliminazione delle generalizzazioni
 - Partizionamento o Accorpamento di alcuni concetti di entità o associazioni
 - Scelta degli identificatori principali
+
+# Diagramma E-R Ristrutturato
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/16355437/196424149-53129568-dbe8-42c9-be3f-369890751052.png">
+
+
+# Schema Logico
+
+<img width="712" alt="Senza nome" src="https://user-images.githubusercontent.com/16355437/196424431-8f99c6e9-8b7f-4536-903d-ff76d100794f.png">
+
+# Vincoli d’integrità referenziale
+
+<img width="611" alt="Senza nome 2" src="https://user-images.githubusercontent.com/16355437/196424561-d8e83b2c-ff8e-43cc-a351-cb7d7d00fa64.png">
+
+
+
+
+
+
+
+
