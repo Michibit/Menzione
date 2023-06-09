@@ -1,11 +1,10 @@
 # Menzione
+<img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
 GUI Java sviluppata come progetto per il corso di Basi di Dati del corso di Laurea in Informatica presso l'Università degli Studi di Salerno. Il progetto è stato concepito con l'obiettivo di fornire un'applicazione pratica per applicare le conoscenze acquisite nel campo delle basi di dati.
 
 Questa GUI offre una soluzione interattiva e user-friendly per la gestione dei lavori in un'impresa edilizia con l'opportunità di progettare e implementare un sistema che consenta di creare, visualizzare, modificare ed eliminare dati relativi ai lavori, tenendo conto delle relazioni e delle dipendenze tra le entità coinvolte.
 
-
-<img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
 
 # Diagramma E-R
