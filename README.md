@@ -1,18 +1,12 @@
 # Menzione
 
+GUI Java sviluppata come progetto per il corso di Basi di Dati del corso di Laurea in Informatica presso l'Università degli Studi di Salerno. Il progetto è stato concepito con l'obiettivo di fornire un'applicazione pratica per applicare le conoscenze acquisite nel campo delle basi di dati.
+
+Questa GUI offre una soluzione interattiva e user-friendly per la gestione dei lavori in un'impresa edilizia con l'opportunità di progettare e implementare un sistema che consenta di creare, visualizzare, modificare ed eliminare dati relativi ai lavori, tenendo conto delle relazioni e delle dipendenze tra le entità coinvolte.
 
 
 <img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
-L'impresa "Ristrutturazione Menzione" è stata fondata nell'estate del 2017 da due fratelli che hanno lavorato insieme come colleghi per oltre 10 anni. La creazione dell'impresa è stata motivata dal declino commerciale dell'azienda per cui i due lavoravano in precedenza.
-
-La nostra impresa opera a livello regionale e si occupa di lavori edili, tra cui la ristrutturazione di appartamenti e la costruzione di nuove strutture. Gestiamo ogni aspetto del lavoro in modo completo, dalla fase iniziale fino al completamento dei lavori.
-
-Abbiamo la capacità di fornire ai clienti un progetto che mostra in anteprima il risultato finale del lavoro, disegnato e verificato dai nostri specialisti ingegneri. Questo progetto consente ai nostri operai di svolgere il proprio lavoro con la massima precisione e attenzione ai dettagli.
-
-Il cliente non dovrà preoccuparsi di nulla, in quanto potrà rivolgersi all'amministratore del lavoro per qualsiasi necessità o richiesta specifica. L'amministratore sarà in grado di gestire le richieste del cliente nel modo più efficace possibile, garantendo un servizio di alta qualità.
-
-Inoltre, l'amministratore si occuperà degli ordini necessari per ottenere i materiali, che saranno forniti da fornitori specializzati nel settore edilizio. In questo modo, possiamo assicurare la disponibilità di materiali di alta qualità per i nostri progetti di ristrutturazione e costruzione.
 
 # Diagramma E-R
 
