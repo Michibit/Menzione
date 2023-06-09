@@ -4,12 +4,15 @@
 
 <img width="500" alt="image" class="center" src="https://user-images.githubusercontent.com/16355437/196425029-e428c27b-924b-4bff-bb4e-807aa0a02f3a.png">
 
-L’impresa «Ristrutturazione Menzione» nasce nell’estate del 2017 da due fratelli, nonché colleghi da più di 10 anni, dopo il crollo commerciale della ditta per la quale i due lavoravano.
-L’impresa opera sul territorio regionale e si occupa di lavori edili, tra cui rinnovo di appartamenti e costruzione di nuovi.
-L’impresa gestisce il lavoro a 360 gradi , dall’inizio alla fine dei lavori …
-Infatti può fornire un progetto per visualizzare al cliente il lavoro finito disegnato e verificato dai nostri specialisti ingegneri con il quale i nostri operai potranno eseguire il proprio lavoro con la massima precisione e accortezza.
-Ovviamente il cliente non dovrà preoccuparsi di nulla, per qualsiasi accorgimento potrà chiedere all’amministratore del lavoro il quale provvederà a gestire le richieste del cliente nel migliore dei modi.
-L’amministratore inoltre effettua ordini per adempiere alla mancanza di materiali i quali vengono forniti da fornitori specializzati nel settore edilizio .
+L'impresa "Ristrutturazione Menzione" è stata fondata nell'estate del 2017 da due fratelli che hanno lavorato insieme come colleghi per oltre 10 anni. La creazione dell'impresa è stata motivata dal declino commerciale dell'azienda per cui i due lavoravano in precedenza.
+
+La nostra impresa opera a livello regionale e si occupa di lavori edili, tra cui la ristrutturazione di appartamenti e la costruzione di nuove strutture. Gestiamo ogni aspetto del lavoro in modo completo, dalla fase iniziale fino al completamento dei lavori.
+
+Abbiamo la capacità di fornire ai clienti un progetto che mostra in anteprima il risultato finale del lavoro, disegnato e verificato dai nostri specialisti ingegneri. Questo progetto consente ai nostri operai di svolgere il proprio lavoro con la massima precisione e attenzione ai dettagli.
+
+Il cliente non dovrà preoccuparsi di nulla, in quanto potrà rivolgersi all'amministratore del lavoro per qualsiasi necessità o richiesta specifica. L'amministratore sarà in grado di gestire le richieste del cliente nel modo più efficace possibile, garantendo un servizio di alta qualità.
+
+Inoltre, l'amministratore si occuperà degli ordini necessari per ottenere i materiali, che saranno forniti da fornitori specializzati nel settore edilizio. In questo modo, possiamo assicurare la disponibilità di materiali di alta qualità per i nostri progetti di ristrutturazione e costruzione.
 
 # Diagramma E-R
 
